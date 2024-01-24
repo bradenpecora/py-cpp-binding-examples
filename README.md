@@ -19,4 +19,4 @@ python test.py
 
 ## More Information
 
-Each directory also contains a `tutorial.md`` file with more information about how to install and use each library to create Python bindings for C++ code.
+Each directory also contains a `tutorial.md` file with more information about how to install and use each library to create Python bindings for C++ code.
